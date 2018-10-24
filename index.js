@@ -1,7 +1,3 @@
-const uselessEmoji = 👑;
-const moreEmojis = 👾👾👾;
-
-
 const inquirer = require('inquirer');
 const NodeRSA = require('node-rsa');
 const fs = require('fs-extra');
