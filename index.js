@@ -1,4 +1,5 @@
 const uselessEmoji = 👑;
+const moreEmojis = 👾👾👾;
 
 
 const inquirer = require('inquirer');
