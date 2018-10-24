@@ -12,7 +12,7 @@ const main = async () => {
     {
       type: 'input',
       name: 'street',
-      message: 'Your street address'
+      message: 'Street address'
     },
     {
       type: 'input',
@@ -33,11 +33,6 @@ const main = async () => {
       type: 'input',
       name: 'zip',
       message: 'Postal Code'
-    },
-    {
-      type: 'input',
-      name: 'city',
-      message: 'City'
     },
     {
       type: 'input',
