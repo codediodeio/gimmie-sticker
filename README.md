@@ -6,6 +6,9 @@ This project provides a CLI script that allows you to encrypt your mailing addre
 
 ## Instructions
 
+Note: You must have Node 8 or later installed locally.
+Note: Your commit must contain **only 1 file**. Verify that you did not change any existing code before making your PR.
+
 1. `fork this repo`
 1. `git clone` your fork url
 1. Enter the project and run `npm install && git checkout -b mysticker`
