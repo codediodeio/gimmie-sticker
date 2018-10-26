@@ -7,10 +7,10 @@ This project provides a CLI script that allows you to encrypt your mailing addre
 ## Instructions
 
 1. `fork this repo`
-1. `git clone` your-fork
-1. `npm install && git checkout -b mysticker`
-1. `npm run address` to enter your address.
-1. Copy the encrypted address to a new file in /stickers/<your-github-username>.txt
+1. `git clone` your fork url
+1. Enter the project and run `npm install && git checkout -b mysticker`
+1. `npm run address` and enter your address carefully.
+1. Copy the encrypted address to a new file in `/stickers/<your-github-username>.txt`
 1. `git add . && git commit -m <your-message>`
 1. `git push origin mysticker`
 1. Open new pull request on Github
