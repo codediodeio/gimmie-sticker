@@ -20,3 +20,7 @@ Note: Your commit must contain **only 1 file**. Verify that you did not change a
 1. Wait 1 to 2 weeks for the sticker 💌
 
 Pro Tip: [Follow me on Github](https://github.com/codediodeio) to get early access to new projects on AngularFirebase.com before they become videos.
+
+## Working
+
+You can have a look at the inner workings [here](working.md).
