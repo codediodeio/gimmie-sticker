@@ -2,7 +2,7 @@ const inquirer = require('inquirer');
 const NodeRSA = require('node-rsa');
 const fs = require('fs-extra');
 
-const main = async () => {
+(async () => {
   const answers = await inquirer.prompt([
     {
       type: 'input',
@@ -58,6 +58,4 @@ const main = async () => {
   console.log(
     '😍 \x20 Copy the encrypted address to stickers/<your-github-username>.txt and send a pull request'
   );
-};
-
-main();
+})();
