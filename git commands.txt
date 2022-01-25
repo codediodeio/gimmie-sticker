@@ -1,0 +1,17 @@
+ git commit -am "that was esasy"  -> for add and commit 
+ git config --global alias.ac "commit -am"  -> for short hand commands 
+ git commit --amend -m "nice!" -> update the comment of latest commit
+works only if we have not pushed to remote repo 
+
+
+git push origh master --force (override the remote with state of local)
+git revert  commitid  -> goes back to commit state but not remove the prevuous commits but just gets into that state  with new commit 
+
+. -> on git hub make a web vscode
+-> but we cannot run termial if we want we have to use git colud
+git log --graph --oneline --decorate
+
+git bisect -> uses binary search if bad moves to next 
+
+git fetch to get the latest repo from the remote 
+git reset --hard orign/master 
