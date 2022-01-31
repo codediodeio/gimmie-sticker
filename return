@@ -1,0 +1,284 @@
+[33mcommit 293076b850c78e52a871374b0b10636dad08a8a7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/mysticker[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmysticker[m[33m, [m[mrefs/bisect/good-293076b850c78e52a871374b0b10636dad08a8a7[m[33m, [m[mrefs/bisect/bad[m[33m)[m
+Author: sainath <sainathreddy863@gmail.com>
+Date:   Tue Jan 25 09:02:50 2022 +0530
+
+    getting sticker
+
+[33mcommit a0c5e518df1ca8fa2352f12c7bf224885a4bc3d4[m
+Author: codediodeio <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:41:08 2018 -0700
+
+    all PRs merged and stickers are in the mail
+
+[33mcommit 5a66b22452da0026efacd4fc83bc3bfc126fc865[m
+Merge: 93954b4 9ec0bda
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:33:13 2018 -0700
+
+    Merge pull request #58 from ISchiavon/mysticker
+    
+    Thanks for the Sticker 😃🚀
+
+[33mcommit 93954b4e6803828b17e323db62a6ca6ae211ebbe[m
+Merge: 59ea523 6abec73
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:33:04 2018 -0700
+
+    Merge pull request #72 from shrinathnayak07/i-want-sticker
+    
+    Gimme stickers
+
+[33mcommit 59ea523154bcf15e69d1d07bf6dbd0bb9ce790b6[m
+Merge: ff41202 be886a0
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:32:47 2018 -0700
+
+    Merge pull request #84 from ikismail/mysticker
+    
+    Gonna get my Sticker 👨‍💻😍🙌🔥
+
+[33mcommit ff41202ccbf3b2e009959a089f309e1d487bef1e[m
+Merge: f9dda82 5aa73c7
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:32:40 2018 -0700
+
+    Merge pull request #102 from alberthoekstra/mysticker
+    
+    awesome address added
+
+[33mcommit f9dda82505e374f5ae3b0f95e9cbb51266134806[m
+Merge: 393bc12 c34be28
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:32:31 2018 -0700
+
+    Merge pull request #119 from sivaraj-dev/mysticker
+    
+    MySticker 👨‍💻😍 Thanks for the gift Jeff 🙌🔥
+
+[33mcommit 393bc12f78977e883a9b098fdcc900ccec647e8c[m
+Merge: 92ad801 e921cc8
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:32:20 2018 -0700
+
+    Merge pull request #121 from RizkyRajitha/mysticker
+    
+    stickzz
+
+[33mcommit 92ad801624a2ac338465696ad5cf523e84273f7d[m
+Merge: 05062ed 7655eec
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:32:09 2018 -0700
+
+    Merge pull request #175 from jascky/mysticker
+    
+    lets get that sticker!!
+
+[33mcommit 05062eda56d51c5f8a452af70489849d7bbde5f7[m
+Merge: 259a0a1 9ee1c27
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:31:58 2018 -0700
+
+    Merge pull request #177 from IuryPiva/mysticker
+    
+    iurypiva - gimme sticker!
+
+[33mcommit 259a0a113a891aee8c45c431dc22be5e6547a6e7[m
+Merge: 27f87de 657d624
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:31:38 2018 -0700
+
+    Merge pull request #176 from jensrott/mysticker
+    
+    I would like some stickers! :)
+
+[33mcommit 9ee1c274d0b8e985a8e9f84ebe584d72c144cbd4[m
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 12:31:19 2018 -0700
+
+    Delete package-lock.json
+
+[33mcommit ce7eb6c2711be54944dddb0b537fb032130545b7[m
+Author: Iury Dias Piva <iurypiva@gmail.com>
+Date:   Sat Nov 3 15:07:20 2018 -0300
+
+    iurypiva
+
+[33mcommit 657d624e1536db6df3f621c5d60b299153e15a66[m
+Author: Jens Rottiers <jensrott@student.arteveldehs.be>
+Date:   Sat Nov 3 17:57:18 2018 +0100
+
+    Deleted package-lock.json
+    
+    Deleted it because it was not needed ofcourse
+
+[33mcommit 0dc8042c2f6338dc9049e1de8e10ff07f2a93e4e[m
+Author: jensrott <jensrott@student.arteveldehs.be>
+Date:   Sat Nov 3 17:52:18 2018 +0100
+
+    I would like some stickers! :)
+
+[33mcommit 7655eecca708d4791d59d65a295b53f44a904d64[m
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:36:03 2018 -0700
+
+    Delete package-lock.json
+
+[33mcommit 27f87de5766ab74a2ff065cd10354ec8aa88c578[m
+Merge: eeb930b dbd8a46
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:35:47 2018 -0700
+
+    Merge pull request #39 from vipomage/mysticker
+    
+    I want sticker
+
+[33mcommit eeb930bcc48924b4b5183ef9566ef59f10cc5a8a[m
+Merge: 6c1ff4f c06b9a4
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:35:37 2018 -0700
+
+    Merge pull request #40 from Abiud/mysticker
+    
+    Sticker!
+
+[33mcommit 6c1ff4fe623f52c38da5e653c3eae759a2511855[m
+Merge: 7be4ea9 31cf5ae
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:35:23 2018 -0700
+
+    Merge pull request #41 from flipperSantos/mysticker
+    
+    Getting my sticker. Nice job, thanks!
+
+[33mcommit 7be4ea97de9b55a72574ad4ceb5389957dddc137[m
+Merge: b92af31 de4d145
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:35:14 2018 -0700
+
+    Merge pull request #43 from zainzafar90/mysticker
+    
+    😎 I want a sticker!
+
+[33mcommit b92af31e59d4725611d7430b930360d45f5bf75a[m
+Merge: d1ddfcd 5e109c4
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:35:00 2018 -0700
+
+    Merge pull request #42 from SantiMA10/mysticker
+    
+    feat: stickers 😍😍
+
+[33mcommit d1ddfcd91b36cc319af194090f360b52b07ad81f[m
+Merge: 69d6d35 32ff4b6
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:34:46 2018 -0700
+
+    Merge pull request #44 from jmclement/mysticker
+    
+    Please send me a sticker
+
+[33mcommit 69d6d35e24d981c8c946907f732ab5d98166e299[m
+Merge: 2f06817 653d249
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:34:37 2018 -0700
+
+    Merge pull request #45 from saurabharch/mysticker
+    
+    a hot tag on my top of laptop
+
+[33mcommit 2f068178ccc76d3a266a04d9d89c6276f77888dc[m
+Merge: 63b7e21 e79a70e
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:34:29 2018 -0700
+
+    Merge pull request #46 from SethuSenthil/mysticker
+    
+    Sticker Giveaway!
+
+[33mcommit 63b7e2128c09914ed5f084eafa5f0960e1ba9c8a[m
+Merge: 9987a07 5925e85
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:34:19 2018 -0700
+
+    Merge pull request #47 from olivierlourme/mysticker
+    
+    Hope I'll get my sticker :)
+
+[33mcommit 9987a07754075853d65fab753413962d066cbb48[m
+Merge: a684e59 5859dbd
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:34:08 2018 -0700
+
+    Merge pull request #48 from williamh890/mysticker
+    
+    Gimmie that sticker
+
+[33mcommit a684e590be1a5ba98995c72f6fc133aecca1ffe9[m
+Merge: bbad2ae b155f19
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:33:53 2018 -0700
+
+    Merge pull request #49 from stromhalm/mysticker
+    
+    Adding stromhalm's address
+
+[33mcommit bbad2ae1d8f445561766f7ad0154b835a56da56f[m
+Merge: 834a9fe 60e16f7
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:25:50 2018 -0700
+
+    Merge pull request #50 from chauey/mysticker
+    
+    Mysticker
+
+[33mcommit 834a9fe333c52ce64c64a0e1f281b5172954dfb2[m
+Merge: 5f0580a decae0a
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:25:39 2018 -0700
+
+    Merge pull request #51 from Quake11/mysticker
+    
+    sticker! <3
+
+[33mcommit 5f0580a24974d6c7a98cb10cc8270aa5661869fd[m
+Merge: 852fa18 07d558e
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:25:07 2018 -0700
+
+    Merge pull request #52 from lpeppe/mysticker
+    
+    data added
+
+[33mcommit 852fa1886d03f85baa98c5402a0afd48e6356e80[m
+Merge: bbf828d 26a9001
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:24:57 2018 -0700
+
+    Merge pull request #53 from SjoenH/mysticker
+    
+    encrypted contact info for Henry.
+
+[33mcommit bbf828d5c7268668a9ddce512b24d71736977182[m
+Merge: 447cfb7 2203c45
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:24:46 2018 -0700
+
+    Merge pull request #54 from Liadshiran/mysticker
+    
+    Liadshiran
+
+[33mcommit 447cfb70d142e376ee741f3c1e51250e27e043a3[m
+Merge: 087cfaa 447de80
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:24:35 2018 -0700
+
+    Merge pull request #55 from germanmarin/mysticker
+    
+    sticker to Argentina!
+
+[33mcommit 087cfaa331de8b1f000f3c658fec8646236fb3f8[m
+Merge: 09756cc ad63abb
+Author: Jeff Delaney <hello@jeffdelaney.me>
+Date:   Sat Nov 3 09:24:26 2018 -0700
+
+    Merge pull re
