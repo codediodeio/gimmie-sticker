@@ -1,7 +1,7 @@
 {
-  "name": "gitit",
+  "name": "mb",
   "version": "1.0.0",
-  "description": "",
+  "description": "📺 Watch Episode 146 [Git It?](https://youtu.be/HkdAHXoRtos) on YouTube",
   "main": "index.js",
   "dependencies": {
     "fs-extra": "^7.0.0",
@@ -15,5 +15,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Expeditiously/gimmie-sticker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Expeditiously/gimmie-sticker/issues"
+  },
+  "homepage": "https://github.com/Expeditiously/gimmie-sticker#readme"
 }
