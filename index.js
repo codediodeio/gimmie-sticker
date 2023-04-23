@@ -7,7 +7,7 @@ const main = async () => {
     {
       type: 'input',
       name: 'name',
-      message: "What's your name friend"
+      message: "What's your name best friend"
     },
     {
       type: 'input',
