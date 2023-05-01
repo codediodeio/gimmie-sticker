@@ -11,6 +11,7 @@ const main = async () => {
   const decrypted = key.decrypt(test, 'utf8');
 
   console.log(decrypted);
+  awd
 };
 
 main();
