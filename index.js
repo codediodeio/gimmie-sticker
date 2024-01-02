@@ -32,7 +32,7 @@ const main = async () => {
 		{
 			type: 'input',
 			name: 'zip',
-			message: 'Zip Code'
+			message: 'Postal Code'
 		},
 		{
 			type: 'input',
