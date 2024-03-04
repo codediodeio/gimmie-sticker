@@ -42,7 +42,7 @@ const main = async () => {
     {
       type: 'input',
       name: 'notes',
-      message: 'Any special notes for me?'
+      message: 'yes, bruh u good'
     }
   ]);
 
