@@ -27,7 +27,7 @@ const main = async () => {
     {
       type: 'input',
       name: 'state',
-      message: 'State/Region'
+      message: 'State/Province'
     },
     {
       type: 'input',
