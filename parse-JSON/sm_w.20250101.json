@@ -1,0 +1,2389 @@
+[
+    {
+        "_metadata_": {
+            "ASOF_DATE": "2025-05-16",
+            "CREATE_DATE": "2025-05-16",
+            "BATCH_FREQUENCY": "weekly"
+        },
+        "SM": {
+            "ASSET_TYPE": "BND_CORP",
+            "ACCRUAL_DT": "5/8/2012",
+            "AMT_ISU": "750000000",
+            "CALC_TYPE": "1",
+            "CD_INSTMT_TYPE": "CFIX",
+            "CHANGE_DT": "4/4/2022 15:24:21.880",
+            "COMPOUND_FLAG": "0",
+            "COUNTRY": "US",
+            "COUPON_FIX": "4.375",
+            "COUP_FREQ": "S",
+            "CPN_TYPE": "F",
+            "CURRENCY": "USD",
+            "CUSIP": "00037BAC6",
+            "CUSIP_TYPE": "CUSIP",
+            "DATE_CONV": "D30360",
+            "DESC_INSTMT": "ABB FINANCE USA INC",
+            "END_ADJ_FLAG": "N",
+            "FIRST_PAY_DT": "11/8/2012",
+            "FIRST_SETTLE_DT": "5/8/2012",
+            "FLAG_144A": "N",
+            "FLAG_CONVERT": "N",
+            "FLAG_EOM": "N",
+            "FLAG_ERISA": "N",
+            "FLAG_PERFORMING": "Y",
+            "FLAG_REG_RIGHTS": "N",
+            "ISSUER_ID": "F75317",
+            "ISSUE_DT": "5/8/2012",
+            "ISSUE_PRICE": "96.86499999999999",
+            "LEH_INDUSTRY": "CONG",
+            "LIQUIDITY": "L",
+            "MAKE_WHOLE_CALL": "Y",
+            "MAKE_WHOLE_SPREAD": "0.25",
+            "MARKET": "GLBL",
+            "MATURITY": "5/8/2042",
+            "MIN_LOT_SIZE": "1000",
+            "MIN_TRD_SIZE": "2000",
+            "MODIFIED_BY": "r5hkhoo",
+            "MTN": "N",
+            "NTL_FLAG": "N",
+            "PMT_ADJ_METH": "F",
+            "PMT_CAL": "NY_Bank",
+            "PMT_FREQ_TYPE": "0",
+            "PMT_LOCATION": "D",
+            "PRICE_AS_PCT": "Y",
+            "PRICING": "100ths",
+            "PUT_CALL": "W",
+            "REVIEWED_BY": "r5hkhoo",
+            "RISK_COUNTRY": "CH",
+            "ROUND_FLAG": "R",
+            "ROUND_PRECISION": "9",
+            "SAL_INDUSTRY": "CONG",
+            "SEC_TYPE": "BND_CORP",
+            "SETTLE_LOCATION": "D",
+            "SM_SEC_GROUP": "BND",
+            "SM_SEC_TYPE": "CORP",
+            "STRUCTURE": "SENIOR",
+            "TICKER": "ABBNVX",
+            "UNITS": "BONDS",
+            "WI_FLAG": "N"
+        },
+        "SM_CE": [
+            {
+                "CONDITIONAL": "D",
+                "MATURITY": "5/8/2042",
+                "PCT": "100",
+                "PROVIDER": "00038A",
+                "START_DATE": "5/8/2012",
+                "TYPE": "G"
+            }
+        ],
+        "SM_COUNTRY_CLASSIFICATION": [
+            {
+                "CNTRY": "CH",
+                "CNTRY_SRC": "L",
+                "CNTRY_TYPE": "IDX"
+            },
+            {
+                "CNTRY": "CH",
+                "CNTRY_SRC": "ML",
+                "CNTRY_TYPE": "IDX"
+            }
+        ],
+        "SM_CUSIP2": [
+            {
+                "CODE": "A",
+                "IDENTIFIER": "00037BAC6"
+            },
+            {
+                "CODE": "B",
+                "IDENTIFIER": "EJ1689805"
+            },
+            {
+                "CODE": "I",
+                "IDENTIFIER": "US00037BAC63"
+            },
+            {
+                "CODE": "R",
+                "IDENTIFIER": "0x0004050a100c7760"
+            }
+        ],
+        "SM_CUSIP_ALIAS": [
+            {
+                "CODE": "8001",
+                "IDENTIFIER": "823150227",
+                "PURPOSE": "DEBTID"
+            },
+            {
+                "CODE": "3000",
+                "IDENTIFIER": "BBG002YS13J8",
+                "PURPOSE": "BBGID"
+            }
+        ],
+        "SM_ISSUE_EXCHANGES": [
+            {
+                "EXCHANGE": "BER"
+            },
+            {
+                "EXCHANGE": "FRA"
+            },
+            {
+                "EXCHANGE": "GTX"
+            },
+            {
+                "EXCHANGE": "MBV"
+            },
+            {
+                "EXCHANGE": "MKX"
+            },
+            {
+                "EXCHANGE": "MUN"
+            }
+        ],
+        "SM_NOTES": [
+            {
+                "EFF_DT": "5/5/2012",
+                "INSTMT": "call @ make whole + 25bps",
+                "SEQ_NUM": "1",
+                "USER_ID": "EjvCall"
+            },
+            {
+                "EFF_DT": "5/8/2012",
+                "INSTMT": "Reuters defined: Not yet Issued",
+                "SEQ_NUM": "0",
+                "USER_ID": "EjvDescr"
+            }
+        ],
+        "SM_RATING": [
+            {
+                "AGY": "1",
+                "DATE": "3/19/2024",
+                "VALUE": "A2"
+            },
+            {
+                "AGY": "2",
+                "DATE": "3/28/2024",
+                "VALUE": "A"
+            },
+            {
+                "AGY": "3",
+                "DATE": "1/28/2022",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "5",
+                "DATE": "4/30/2025",
+                "VALUE": "1.F"
+            },
+            {
+                "AGY": "50",
+                "DATE": "10/4/2023",
+                "VALUE": "A+"
+            },
+            {
+                "AGY": "53",
+                "DATE": "10/18/2019",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "211",
+                "DATE": "3/19/2024",
+                "VALUE": "A2"
+            },
+            {
+                "AGY": "1201",
+                "DATE": "3/28/2024",
+                "VALUE": "A2"
+            }
+        ],
+        "SM_SECTOR": [
+            {
+                "CODE": "DMAN",
+                "LEVEL": "1",
+                "TYPE": "BARC_SECT"
+            },
+            {
+                "CODE": "DMAN",
+                "LEVEL": "1",
+                "TYPE": "BARC_SECT_INDEX"
+            },
+            {
+                "CODE": "DCAP",
+                "LEVEL": "1",
+                "TYPE": "ISS_ML"
+            },
+            {
+                "CODE": "MACH",
+                "LEVEL": "0",
+                "TYPE": "SAL"
+            }
+        ],
+        "SM_UDF": [
+            {
+                "LABEL": "ASSET_CLASS5",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA"
+            },
+            {
+                "LABEL": "CRED_REL_IN_SUB",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA",
+                "VALUE": "Yes"
+            },
+            {
+                "LABEL": "DEXSECT",
+                "PURPOSE": "MLCRP10P",
+                "UDF_SOURCE": "PMS",
+                "VALUE": "DEXSECT.OTHER"
+            },
+            {
+                "LABEL": "RGA Sector",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5micall",
+                "VALUE": "DMAN"
+            },
+            {
+                "LABEL": "RGA_CARB_RAT",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA",
+                "VALUE": "Low Risk"
+            },
+            {
+                "LABEL": "RGA_CARB_SCOPE",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA",
+                "VALUE": "4.68"
+            },
+            {
+                "LABEL": "RGA_CARB_SCR",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA",
+                "VALUE": "2.14"
+            },
+            {
+                "LABEL": "RGA_CARB_SOUR",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA",
+                "VALUE": "Reported"
+            },
+            {
+                "LABEL": "gp_BARCSECT4P",
+                "PURPOSE": "LCRE10P8IC",
+                "UDF_SOURCE": "PMS",
+                "VALUE": "gp_BARCSECT4P.BARC1_CORPORATES.BARC2_INDUSTRIAL.BARC3_CAPITAL_GOODS.BARC4_DIVERSIFIED_MA"
+            }
+        ]
+    },
+    {
+        "_metadata_": {
+            "ASOF_DATE": "2025-05-16",
+            "CREATE_DATE": "2025-05-16",
+            "BATCH_FREQUENCY": "weekly"
+        },
+        "SM": {
+            "ASSET_TYPE": "BND_CORP",
+            "ACCRUAL_DT": "4/3/2018",
+            "AMT_ISU": "750000000",
+            "ANNOUNCE_DT": "3/26/2018",
+            "CALC_TYPE": "1",
+            "CALL_MANDATORY": "N",
+            "CALL_TYPE": "A",
+            "CD_INSTMT_TYPE": "N/A",
+            "CHANGE_DT": "6/27/2023 12:28:49.626",
+            "COMPOUND_FLAG": "0",
+            "COUNTRY": "US",
+            "COUPON_FIX": "3.8",
+            "COUP_FREQ": "S",
+            "CPN_TYPE": "F",
+            "CURRENCY": "USD",
+            "CUSIP": "00037BAF9",
+            "CUSIP_TYPE": "CUSIP",
+            "DATE_CONV": "D30360",
+            "DESC_INSTMT": "ABB FINANCE USA INC",
+            "END_ADJ_FLAG": "N",
+            "FIRST_PAY_DT": "10/3/2018",
+            "FIRST_SETTLE_DT": "4/3/2018",
+            "FLAG_144A": "N",
+            "FLAG_EOM": "N",
+            "FLAG_ERISA": "N",
+            "FLAG_PERFORMING": "Y",
+            "FLAG_REG_RIGHTS": "N",
+            "ISSUER_ID": "F75317",
+            "ISSUE_DT": "4/3/2018",
+            "ISSUE_PRICE": "100",
+            "LEH_INDUSTRY": "CONG",
+            "LIQUIDITY": "L",
+            "MAKE_WHOLE_CALL": "Y",
+            "MAKE_WHOLE_SPREAD": "0.15",
+            "MARKET": "GLBL",
+            "MATURITY": "4/3/2028",
+            "MAX_CALL_NOTICE": "60",
+            "MIN_CALL_NOTICE": "30",
+            "MIN_LOT_SIZE": "1000",
+            "MIN_TRD_SIZE": "1000",
+            "MODIFIED_BY": "r5lsheeh",
+            "MTN": "N",
+            "NTL_FLAG": "N",
+            "PC_DAY_CONV": "C",
+            "PMT_ADJ_METH": "F",
+            "PMT_CAL": "NY_Bank",
+            "PMT_FREQ_TYPE": "0",
+            "PRICE_AS_PCT": "Y",
+            "PRICING": "100ths",
+            "PUT_CALL": "C",
+            "PUT_MANDATORY": "N",
+            "REVIEWED_BY": "r5lsheeh",
+            "RISK_COUNTRY": "CH",
+            "ROUND_FLAG": "R",
+            "ROUND_PRECISION": "9",
+            "SAL_INDUSTRY": "CONG",
+            "SEC_TYPE": "BND_CORP",
+            "SINK_MANDATORY": "N",
+            "SM_SEC_GROUP": "BND",
+            "SM_SEC_TYPE": "CORP",
+            "STRUCTURE": "SENIOR",
+            "TICKER": "ABBNVX",
+            "UNITS": "BONDS",
+            "WI_FLAG": "N"
+        },
+        "SM_COUNTRY_CLASSIFICATION": [
+            {
+                "CNTRY": "CH",
+                "CNTRY_SRC": "L",
+                "CNTRY_TYPE": "IDX"
+            },
+            {
+                "CNTRY": "CH",
+                "CNTRY_SRC": "ML",
+                "CNTRY_TYPE": "IDX"
+            }
+        ],
+        "SM_CUSIP2": [
+            {
+                "CODE": "I",
+                "IDENTIFIER": "US00037BAF94"
+            }
+        ],
+        "SM_CUSIP_ALIAS": [
+            {
+                "CODE": "8001",
+                "IDENTIFIER": "830310863",
+                "PURPOSE": "DEBTID"
+            },
+            {
+                "CODE": "3000",
+                "IDENTIFIER": "BBG00KG1NM56",
+                "PURPOSE": "BBGID"
+            }
+        ],
+        "SM_ISSUE_EXCHANGES": [
+            {
+                "EXCHANGE": "BER"
+            },
+            {
+                "EXCHANGE": "DUS"
+            },
+            {
+                "EXCHANGE": "FRA"
+            },
+            {
+                "EXCHANGE": "GTX"
+            },
+            {
+                "EXCHANGE": "MBV"
+            },
+            {
+                "EXCHANGE": "MUN"
+            },
+            {
+                "EXCHANGE": "STU"
+            }
+        ],
+        "SM_NOTES": [
+            {
+                "EFF_DT": "3/26/2018",
+                "INSTMT": "Expected Ratings",
+                "SEQ_NUM": "1",
+                "USER_ID": "r5micall"
+            }
+        ],
+        "SM_PUTCALL": [
+            {
+                "DT": "1/3/2028",
+                "PRICE": "100",
+                "TYPE": "C"
+            }
+        ],
+        "SM_RATING": [
+            {
+                "AGY": "1",
+                "DATE": "3/19/2024",
+                "VALUE": "A2"
+            },
+            {
+                "AGY": "2",
+                "DATE": "3/28/2024",
+                "VALUE": "A"
+            },
+            {
+                "AGY": "3",
+                "DATE": "1/28/2022",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "5",
+                "DATE": "4/30/2025",
+                "VALUE": "1.F"
+            },
+            {
+                "AGY": "50",
+                "DATE": "4/23/2025",
+                "VALUE": "A+"
+            },
+            {
+                "AGY": "211",
+                "DATE": "3/19/2024",
+                "VALUE": "A2"
+            },
+            {
+                "AGY": "1201",
+                "DATE": "3/28/2024",
+                "VALUE": "A2"
+            }
+        ],
+        "SM_SECTOR": [
+            {
+                "CODE": "DMAN",
+                "LEVEL": "1",
+                "TYPE": "BARC_SECT"
+            },
+            {
+                "CODE": "DCAP",
+                "LEVEL": "1",
+                "TYPE": "ISS_ML"
+            },
+            {
+                "CODE": "DMAN",
+                "LEVEL": "0",
+                "TYPE": "SAL"
+            }
+        ],
+        "SM_UDF": [
+            {
+                "LABEL": "ASSET_CLASS5",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA"
+            },
+            {
+                "LABEL": "CRED_REL_IN_SUB",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA",
+                "VALUE": "Yes"
+            },
+            {
+                "LABEL": "RGA Sector",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5micall",
+                "VALUE": "DMAN"
+            },
+            {
+                "LABEL": "RGA_CARB_RAT",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA",
+                "VALUE": "Low Risk"
+            },
+            {
+                "LABEL": "RGA_CARB_SCOPE",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA",
+                "VALUE": "4.68"
+            },
+            {
+                "LABEL": "RGA_CARB_SCR",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA",
+                "VALUE": "2.14"
+            },
+            {
+                "LABEL": "RGA_CARB_SOUR",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA",
+                "VALUE": "Reported"
+            },
+            {
+                "LABEL": "RGA_CRD_ANALYST",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5micall",
+                "VALUE": "SMALLWOOD"
+            }
+        ]
+    },
+    {
+        "_metadata_": {
+            "ASOF_DATE": "2025-05-16",
+            "CREATE_DATE": "2025-05-16",
+            "BATCH_FREQUENCY": "weekly"
+        },
+        "SM": {
+            "ASSET_TYPE": "ABS_ABS",
+            "ACCRUAL_DT": "11/20/2018",
+            "AMT_ISU": "305000000",
+            "BONDTYPE": "Aircraft",
+            "CALC_TYPE": "0",
+            "CD_INSTMT_TYPE": "UNKNOWN",
+            "CHANGE_DT": "3/21/2024 12:24:13.756",
+            "COLLATERAL": "AIRCRAFT LEASES",
+            "COMPOUND_FLAG": "0",
+            "COUNTRY": "IE",
+            "COUPON_FIX": "4.46",
+            "COUP_FREQ": "M",
+            "CPN_TYPE": "F",
+            "CURRENCY": "USD",
+            "CUSIP": "00037UAD2",
+            "CUSIP_TYPE": "CUSIP",
+            "DATE_CONV": "D30360",
+            "DEAL": "AASET 2018-3",
+            "DELAY": "0",
+            "DESC_INSTMT": "AASET 2018-3",
+            "END_ADJ_FLAG": "N",
+            "EXPECTED_MATURITY": "9/15/2025",
+            "FIRST_PAY_DT": "12/15/2018",
+            "FIRST_PRIN_DT": "12/15/2018",
+            "FIRST_SETTLE_DT": "11/21/2018",
+            "FLAG_144A": "Y",
+            "FLAG_EOM": "N",
+            "FLAG_ERISA": "N",
+            "FLAG_PERFORMING": "Y",
+            "FLAG_REG_RIGHTS": "N",
+            "ISSUER_ID": "J67110",
+            "ISSUE_DT": "11/20/2018",
+            "LEH_INDUSTRY": "ABSO",
+            "LIQUIDITY": "N",
+            "MARKET": "US",
+            "MATURITY": "12/15/2038",
+            "MIN_LOT_SIZE": "1000",
+            "MIN_TRD_SIZE": "250000",
+            "MODIFIED_BY": "r5mbreih",
+            "NTL_FLAG": "N",
+            "PMT_ADJ_METH": "F",
+            "PMT_CAL": "NY_Bank",
+            "PMT_FREQ_TYPE": "0",
+            "PRICE_AS_PCT": "Y",
+            "PRICING": "32nds",
+            "PRIN_FREQ": "M",
+            "PUT_CALL": null,
+            "REREMIC": "O",
+            "REVIEWED_BY": "r5mbreih",
+            "RISK_COUNTRY": "US",
+            "ROUND_FLAG": "R",
+            "ROUND_PRECISION": "9",
+            "SEC_TYPE": "ABS_ABS",
+            "SM_SEC_GROUP": "ABS",
+            "SM_SEC_TYPE": "ABS",
+            "STRUCTURE": "SENIOR",
+            "TICKER": "AASET",
+            "TRANCHE": "A",
+            "WI_FLAG": "N"
+        },
+        "SM_AMORT": [
+            {
+                "BALANCE": "0",
+                "DT": "7/15/2022",
+                "INTEREST": "0",
+                "PRINCIPAL": "221245034"
+            },
+            {
+                "BALANCE": "6327914",
+                "DT": "8/15/2022",
+                "INTEREST": "822294",
+                "PRINCIPAL": "214917120"
+            },
+            {
+                "BALANCE": "1564873",
+                "DT": "9/15/2022",
+                "INTEREST": "798775",
+                "PRINCIPAL": "213352247"
+            },
+            {
+                "BALANCE": "1158080",
+                "DT": "10/15/2022",
+                "INTEREST": "792959",
+                "PRINCIPAL": "212194167"
+            },
+            {
+                "BALANCE": "2232470",
+                "DT": "11/15/2022",
+                "INTEREST": "788655",
+                "PRINCIPAL": "209961697"
+            },
+            {
+                "BALANCE": "288857",
+                "DT": "12/15/2022",
+                "INTEREST": "780358",
+                "PRINCIPAL": "209672840"
+            },
+            {
+                "BALANCE": "2815283",
+                "DT": "1/15/2023",
+                "INTEREST": "779284",
+                "PRINCIPAL": "206857556"
+            },
+            {
+                "BALANCE": "2524465",
+                "DT": "2/15/2023",
+                "INTEREST": "768821",
+                "PRINCIPAL": "204333091"
+            },
+            {
+                "BALANCE": "2551995",
+                "DT": "3/15/2023",
+                "INTEREST": "759438",
+                "PRINCIPAL": "201781096"
+            },
+            {
+                "BALANCE": "4463381",
+                "DT": "4/15/2023",
+                "INTEREST": "749953",
+                "PRINCIPAL": "197317715"
+            },
+            {
+                "BALANCE": "2912505",
+                "DT": "5/15/2023",
+                "INTEREST": "733364",
+                "PRINCIPAL": "194405210"
+            },
+            {
+                "BALANCE": "7096782",
+                "DT": "6/15/2023",
+                "INTEREST": "722539",
+                "PRINCIPAL": "187308429"
+            },
+            {
+                "BALANCE": "1884042",
+                "DT": "7/15/2023",
+                "INTEREST": "696163",
+                "PRINCIPAL": "185424387"
+            },
+            {
+                "BALANCE": "7607132",
+                "DT": "8/15/2023",
+                "INTEREST": "689161",
+                "PRINCIPAL": "177817255"
+            },
+            {
+                "BALANCE": "2940060",
+                "DT": "9/15/2023",
+                "INTEREST": "660887",
+                "PRINCIPAL": "174877195"
+            },
+            {
+                "BALANCE": "3109298",
+                "DT": "10/15/2023",
+                "INTEREST": "649960",
+                "PRINCIPAL": "171767897"
+            },
+            {
+                "BALANCE": "2208897",
+                "DT": "11/15/2023",
+                "INTEREST": "638404",
+                "PRINCIPAL": "169559001"
+            },
+            {
+                "BALANCE": "19745983",
+                "DT": "12/15/2023",
+                "INTEREST": "630194",
+                "PRINCIPAL": "149813018"
+            },
+            {
+                "BALANCE": "2639139",
+                "DT": "1/15/2024",
+                "INTEREST": "556805",
+                "PRINCIPAL": "147173879"
+            },
+            {
+                "BALANCE": "9783117",
+                "DT": "2/15/2024",
+                "INTEREST": "546996",
+                "PRINCIPAL": "137390761"
+            },
+            {
+                "BALANCE": "2092143",
+                "DT": "3/15/2024",
+                "INTEREST": "510636",
+                "PRINCIPAL": "135298618"
+            },
+            {
+                "BALANCE": "1837302",
+                "DT": "4/15/2024",
+                "INTEREST": "502860",
+                "PRINCIPAL": "133461316"
+            },
+            {
+                "BALANCE": "1793898",
+                "DT": "5/15/2024",
+                "INTEREST": "496031",
+                "PRINCIPAL": "131667418"
+            },
+            {
+                "BALANCE": "1658871",
+                "DT": "6/15/2024",
+                "INTEREST": "489364",
+                "PRINCIPAL": "130008547"
+            },
+            {
+                "BALANCE": "1736080",
+                "DT": "7/15/2024",
+                "INTEREST": "483198",
+                "PRINCIPAL": "128272468"
+            },
+            {
+                "BALANCE": "1730978",
+                "DT": "8/15/2024",
+                "INTEREST": "476746",
+                "PRINCIPAL": "126541489"
+            },
+            {
+                "BALANCE": "1838560",
+                "DT": "9/15/2024",
+                "INTEREST": "470313",
+                "PRINCIPAL": "124702929"
+            },
+            {
+                "BALANCE": "1198506",
+                "DT": "10/15/2024",
+                "INTEREST": "463479",
+                "PRINCIPAL": "123504423"
+            },
+            {
+                "BALANCE": "1774033",
+                "DT": "11/15/2024",
+                "INTEREST": "459025",
+                "PRINCIPAL": "121730391"
+            },
+            {
+                "BALANCE": "1944037",
+                "DT": "12/15/2024",
+                "INTEREST": "452431",
+                "PRINCIPAL": "119786354"
+            },
+            {
+                "BALANCE": "1778558",
+                "DT": "1/15/2025",
+                "INTEREST": "445206",
+                "PRINCIPAL": "118007796"
+            },
+            {
+                "BALANCE": "1689782",
+                "DT": "2/15/2025",
+                "INTEREST": "438596",
+                "PRINCIPAL": "116318014"
+            },
+            {
+                "BALANCE": "1703746",
+                "DT": "3/15/2025",
+                "INTEREST": "432315",
+                "PRINCIPAL": "114614268"
+            },
+            {
+                "BALANCE": "1701179",
+                "DT": "4/15/2025",
+                "INTEREST": "425983",
+                "PRINCIPAL": "112913089"
+            },
+            {
+                "BALANCE": "1884891",
+                "DT": "5/15/2025",
+                "INTEREST": "419660",
+                "PRINCIPAL": "111028198"
+            },
+            {
+                "BALANCE": "1897819",
+                "DT": "6/15/2025",
+                "INTEREST": "412655",
+                "PRINCIPAL": "109130379"
+            },
+            {
+                "BALANCE": "1908776",
+                "DT": "7/15/2025",
+                "INTEREST": "405601",
+                "PRINCIPAL": "107221603"
+            },
+            {
+                "BALANCE": "1776859",
+                "DT": "8/15/2025",
+                "INTEREST": "398507",
+                "PRINCIPAL": "105444744"
+            },
+            {
+                "BALANCE": "5926117",
+                "DT": "9/15/2025",
+                "INTEREST": "391903",
+                "PRINCIPAL": "99518627"
+            },
+            {
+                "BALANCE": "1919198",
+                "DT": "10/15/2025",
+                "INTEREST": "369878",
+                "PRINCIPAL": "97599429"
+            },
+            {
+                "BALANCE": "1910592",
+                "DT": "11/15/2025",
+                "INTEREST": "362745",
+                "PRINCIPAL": "95688837"
+            },
+            {
+                "BALANCE": "1730273",
+                "DT": "12/15/2025",
+                "INTEREST": "355644",
+                "PRINCIPAL": "93958564"
+            },
+            {
+                "BALANCE": "1856350",
+                "DT": "1/15/2026",
+                "INTEREST": "349213",
+                "PRINCIPAL": "92102214"
+            },
+            {
+                "BALANCE": "1695346",
+                "DT": "2/15/2026",
+                "INTEREST": "342313",
+                "PRINCIPAL": "90406868"
+            },
+            {
+                "BALANCE": "1489461",
+                "DT": "3/15/2026",
+                "INTEREST": "336012",
+                "PRINCIPAL": "88917408"
+            },
+            {
+                "BALANCE": "4567629",
+                "DT": "4/15/2026",
+                "INTEREST": "330476",
+                "PRINCIPAL": "84349778"
+            },
+            {
+                "BALANCE": "1547391",
+                "DT": "5/15/2026",
+                "INTEREST": "313500",
+                "PRINCIPAL": "82802387"
+            },
+            {
+                "BALANCE": "1285909",
+                "DT": "6/15/2026",
+                "INTEREST": "307749",
+                "PRINCIPAL": "81516478"
+            },
+            {
+                "BALANCE": "1192290",
+                "DT": "7/15/2026",
+                "INTEREST": "302970",
+                "PRINCIPAL": "80324187"
+            },
+            {
+                "BALANCE": "713331",
+                "DT": "8/15/2026",
+                "INTEREST": "298538",
+                "PRINCIPAL": "79610856"
+            },
+            {
+                "BALANCE": "1519695",
+                "DT": "9/15/2026",
+                "INTEREST": "295887",
+                "PRINCIPAL": "78091161"
+            },
+            {
+                "BALANCE": "880972",
+                "DT": "10/15/2026",
+                "INTEREST": "290239",
+                "PRINCIPAL": "77210189"
+            },
+            {
+                "BALANCE": "5397241",
+                "DT": "11/15/2026",
+                "INTEREST": "286965",
+                "PRINCIPAL": "71812948"
+            },
+            {
+                "BALANCE": "1093824",
+                "DT": "12/15/2026",
+                "INTEREST": "266905",
+                "PRINCIPAL": "70719123"
+            },
+            {
+                "BALANCE": "875349",
+                "DT": "1/15/2027",
+                "INTEREST": "262839",
+                "PRINCIPAL": "69843774"
+            },
+            {
+                "BALANCE": "13441325",
+                "DT": "2/15/2027",
+                "INTEREST": "259586",
+                "PRINCIPAL": "56402449"
+            },
+            {
+                "BALANCE": "8700493",
+                "DT": "3/15/2027",
+                "INTEREST": "209629",
+                "PRINCIPAL": "47701956"
+            },
+            {
+                "BALANCE": "1244945",
+                "DT": "4/15/2027",
+                "INTEREST": "177292",
+                "PRINCIPAL": "46457011"
+            },
+            {
+                "BALANCE": "1005523",
+                "DT": "5/15/2027",
+                "INTEREST": "172665",
+                "PRINCIPAL": "45451488"
+            },
+            {
+                "BALANCE": "330042",
+                "DT": "6/15/2027",
+                "INTEREST": "168928",
+                "PRINCIPAL": "45121446"
+            },
+            {
+                "BALANCE": "745824",
+                "DT": "7/15/2027",
+                "INTEREST": "167701",
+                "PRINCIPAL": "44375623"
+            },
+            {
+                "BALANCE": "687662",
+                "DT": "8/15/2027",
+                "INTEREST": "164929",
+                "PRINCIPAL": "43687961"
+            },
+            {
+                "BALANCE": "651230",
+                "DT": "9/15/2027",
+                "INTEREST": "162374",
+                "PRINCIPAL": "43036731"
+            },
+            {
+                "BALANCE": "503768",
+                "DT": "10/15/2027",
+                "INTEREST": "159953",
+                "PRINCIPAL": "42532962"
+            },
+            {
+                "BALANCE": "4993233",
+                "DT": "11/15/2027",
+                "INTEREST": "158081",
+                "PRINCIPAL": "37539729"
+            },
+            {
+                "BALANCE": "669806",
+                "DT": "12/15/2027",
+                "INTEREST": "139523",
+                "PRINCIPAL": "36869923"
+            },
+            {
+                "BALANCE": "600096",
+                "DT": "1/15/2028",
+                "INTEREST": "137033",
+                "PRINCIPAL": "36269827"
+            },
+            {
+                "BALANCE": "341258",
+                "DT": "2/15/2028",
+                "INTEREST": "134803",
+                "PRINCIPAL": "35928570"
+            },
+            {
+                "BALANCE": "9577662",
+                "DT": "3/15/2028",
+                "INTEREST": "133535",
+                "PRINCIPAL": "26350908"
+            },
+            {
+                "BALANCE": "688357",
+                "DT": "4/15/2028",
+                "INTEREST": "97938",
+                "PRINCIPAL": "25662551"
+            },
+            {
+                "BALANCE": "342771",
+                "DT": "5/15/2028",
+                "INTEREST": "95379",
+                "PRINCIPAL": "25319780"
+            },
+            {
+                "BALANCE": "3391335",
+                "DT": "6/15/2028",
+                "INTEREST": "94105",
+                "PRINCIPAL": "21928445"
+            },
+            {
+                "BALANCE": "314299",
+                "DT": "7/15/2028",
+                "INTEREST": "81501",
+                "PRINCIPAL": "21614146"
+            },
+            {
+                "BALANCE": "194901",
+                "DT": "8/15/2028",
+                "INTEREST": "80333",
+                "PRINCIPAL": "21419244"
+            },
+            {
+                "BALANCE": "52779",
+                "DT": "9/15/2028",
+                "INTEREST": "79608",
+                "PRINCIPAL": "21366465"
+            },
+            {
+                "BALANCE": "8886660",
+                "DT": "10/15/2028",
+                "INTEREST": "79412",
+                "PRINCIPAL": "12479805"
+            },
+            {
+                "BALANCE": "368871",
+                "DT": "11/15/2028",
+                "INTEREST": "46383",
+                "PRINCIPAL": "12110935"
+            },
+            {
+                "BALANCE": "127763",
+                "DT": "12/15/2028",
+                "INTEREST": "45012",
+                "PRINCIPAL": "11983172"
+            },
+            {
+                "BALANCE": "34123",
+                "DT": "1/15/2029",
+                "INTEREST": "44537",
+                "PRINCIPAL": "11949049"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "2/15/2029",
+                "INTEREST": "44411",
+                "PRINCIPAL": "11949049"
+            },
+            {
+                "BALANCE": "9301312",
+                "DT": "3/15/2029",
+                "INTEREST": "44411",
+                "PRINCIPAL": "2647737"
+            },
+            {
+                "BALANCE": "181811",
+                "DT": "4/15/2029",
+                "INTEREST": "9841",
+                "PRINCIPAL": "2465926"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "5/15/2029",
+                "INTEREST": "9165",
+                "PRINCIPAL": "2465926"
+            },
+            {
+                "BALANCE": "2465926",
+                "DT": "6/15/2029",
+                "INTEREST": "9165",
+                "PRINCIPAL": "0"
+            }
+        ],
+        "SM_CUSIP2": [
+            {
+                "CODE": "I",
+                "IDENTIFIER": "US00037UAD28"
+            }
+        ],
+        "SM_RATING": [
+            {
+                "AGY": "1",
+                "DATE": "11/2/2018",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "2",
+                "DATE": "11/2/2018",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "3",
+                "DATE": "11/2/2018",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "5",
+                "DATE": "4/29/2025",
+                "VALUE": "2.B"
+            },
+            {
+                "AGY": "14",
+                "DATE": "2/21/2025",
+                "VALUE": "BBB"
+            },
+            {
+                "AGY": "35",
+                "DATE": "2/21/2025",
+                "VALUE": "BBB(sf)"
+            },
+            {
+                "AGY": "56",
+                "DATE": "2/21/2025",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "1000",
+                "DATE": "6/7/2022",
+                "VALUE": "2.C FE"
+            },
+            {
+                "AGY": "1201",
+                "DATE": "5/6/2025",
+                "VALUE": "Baa2"
+            },
+            {
+                "AGY": "28234",
+                "DATE": "8/31/2022",
+                "VALUE": "4"
+            }
+        ],
+        "SM_SECTOR": [
+            {
+                "CODE": "ABSO",
+                "LEVEL": "1",
+                "TYPE": "BARC_SECT"
+            },
+            {
+                "CODE": "REDM",
+                "LEVEL": "1",
+                "TYPE": "ISS_ML"
+            }
+        ],
+        "SM_SM_VECTOR_DATA": [
+            {
+                "ATTR_NAME": "Aircraft",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "11/21/2018",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "FIX",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "11/21/2018",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "MCALL",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "11/21/2018",
+                "STOP_DATE": "12/31/2222"
+            }
+        ],
+        "SM_UDF": [
+            {
+                "LABEL": "ASSET_CLASS5",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA"
+            }
+        ]
+    },
+    {
+        "_metadata_": {
+            "ASOF_DATE": "2025-05-16",
+            "CREATE_DATE": "2025-05-16",
+            "BATCH_FREQUENCY": "weekly"
+        },
+        "SM": {
+            "ASSET_TYPE": "ABS_ABS",
+            "ACCRUAL_DT": "11/20/2018",
+            "AMT_ISU": "55000000",
+            "BONDTYPE": "Aircraft",
+            "CALC_TYPE": "0",
+            "CD_INSTMT_TYPE": "UNKNOWN",
+            "CHANGE_DT": "3/21/2024 12:24:24.430",
+            "COLLATERAL": "AIRCRAFT LEASES",
+            "COMPOUND_FLAG": "0",
+            "COUNTRY": "IE",
+            "COUPON_FIX": "5.685",
+            "COUP_FREQ": "M",
+            "CPN_TYPE": "F",
+            "CURRENCY": "USD",
+            "CUSIP": "00037UAE0",
+            "CUSIP_TYPE": "CUSIP",
+            "DATE_CONV": "D30360",
+            "DEAL": "AASET 2018-3",
+            "DELAY": "0",
+            "DESC_INSTMT": "AASET 2018-3",
+            "END_ADJ_FLAG": "N",
+            "EXPECTED_MATURITY": "12/15/2038",
+            "FIRST_PAY_DT": "12/15/2018",
+            "FIRST_PRIN_DT": "12/15/2018",
+            "FIRST_SETTLE_DT": "11/20/2018",
+            "FLAG_144A": "Y",
+            "FLAG_EOM": "N",
+            "FLAG_ERISA": "N",
+            "FLAG_PERFORMING": "Y",
+            "FLAG_REG_RIGHTS": "N",
+            "ISSUER_ID": "J67110",
+            "ISSUE_DT": "11/2/2018",
+            "LEH_INDUSTRY": null,
+            "LIQUIDITY": "L",
+            "MARKET": "US",
+            "MATURITY": "12/15/2038",
+            "MIN_LOT_SIZE": "1000",
+            "MIN_TRD_SIZE": "250000",
+            "MODIFIED_BY": "r5mbreih",
+            "NTL_FLAG": "N",
+            "PMT_ADJ_METH": "F",
+            "PMT_CAL": "NY_Bank",
+            "PMT_FREQ_TYPE": "0",
+            "PRICE_AS_PCT": "Y",
+            "PRICING": "32nds",
+            "PRIN_FREQ": "M",
+            "PUT_CALL": null,
+            "REREMIC": "O",
+            "REVIEWED_BY": "r5mbreih",
+            "RISK_COUNTRY": "US",
+            "ROUND_FLAG": "R",
+            "ROUND_PRECISION": "9",
+            "SEC_TYPE": "ABS_ABS",
+            "SM_SEC_GROUP": "ABS",
+            "SM_SEC_TYPE": "ABS",
+            "STRUCTURE": "SUB",
+            "TICKER": "AASET",
+            "TRANCHE": "B",
+            "WI_FLAG": "N"
+        },
+        "SM_AMORT": [
+            {
+                "BALANCE": "0",
+                "DT": "11/15/2022",
+                "INTEREST": "0",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "12/15/2022",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "1/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "2/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "3/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "4/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "5/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "6/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "7/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "8/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "9/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "10/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "11/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "12/15/2023",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "1/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "2/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "3/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "4/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "5/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "6/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "7/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "8/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "9/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "10/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "11/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "12/15/2024",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "1/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "2/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "3/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "4/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "5/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "6/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "7/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "8/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "9/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "10/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "11/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "12/15/2025",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "1/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "2/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "3/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "4/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "5/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "6/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "7/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "8/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "9/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "10/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "11/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "12/15/2026",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "1/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "2/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "3/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "4/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "5/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "6/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "7/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "8/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "9/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "10/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "11/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "12/15/2027",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "1/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "2/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "3/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "4/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "5/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "6/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "7/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "8/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "9/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "10/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "11/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "12/15/2028",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "1/15/2029",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "2/15/2029",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "3/15/2029",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "4/15/2029",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "0",
+                "DT": "5/15/2029",
+                "INTEREST": "227756",
+                "PRINCIPAL": "48075153"
+            },
+            {
+                "BALANCE": "12342296",
+                "DT": "6/15/2029",
+                "INTEREST": "227756",
+                "PRINCIPAL": "0"
+            }
+        ],
+        "SM_CUSIP2": [
+            {
+                "CODE": "I",
+                "IDENTIFIER": "US100037UAE6"
+            }
+        ],
+        "SM_RATING": [
+            {
+                "AGY": "1",
+                "DATE": "11/2/2018",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "2",
+                "DATE": "11/2/2018",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "3",
+                "DATE": "11/2/2018",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "5",
+                "DATE": "4/29/2025",
+                "VALUE": "4.A"
+            },
+            {
+                "AGY": "14",
+                "DATE": "8/30/2023",
+                "VALUE": "B+"
+            },
+            {
+                "AGY": "35",
+                "DATE": "2/21/2025",
+                "VALUE": "B+(sf)"
+            },
+            {
+                "AGY": "56",
+                "DATE": "2/21/2025",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "1201",
+                "DATE": "1/11/2023",
+                "VALUE": "B1"
+            }
+        ],
+        "SM_SM_VECTOR_DATA": [
+            {
+                "ATTR_NAME": "Aircraft",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "11/21/2018",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "FIX",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "11/21/2018",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "MCALL",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "11/21/2018",
+                "STOP_DATE": "12/31/2222"
+            }
+        ],
+        "SM_UDF": [
+            {
+                "LABEL": "ASSET_CLASS5",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA"
+            }
+        ]
+    },
+    {
+        "_metadata_": {
+            "ASOF_DATE": "2025-05-16",
+            "CREATE_DATE": "2025-05-16",
+            "BATCH_FREQUENCY": "weekly"
+        },
+        "SM": {
+            "ASSET_TYPE": "ABS_ABS",
+            "ACCRUAL_DT": "4/14/2025",
+            "AMT_ISU": "24000000",
+            "BONDTYPE": "CLO - BSL",
+            "BRS_COLLATERAL": "CLO",
+            "CALC_TYPE": "0",
+            "CD_INSTMT_TYPE": "N/A",
+            "CHANGE_DT": "3/28/2025 13:54:36.110",
+            "COLLATERAL": "HIGH YIELD LOANS - BSL",
+            "COMPOUND_FLAG": "0",
+            "COUNTRY": "US",
+            "COUP_FREQ": "Q",
+            "CPN_TYPE": "T",
+            "CURRENCY": "USD",
+            "CUSIP": "00037VAQ1",
+            "CUSIP_TYPE": "CUSIP",
+            "DATE_CONV": "ACT360",
+            "DEAL": "ABBSL 2023-4A",
+            "DEAL_AMOUNT": "403899617",
+            "DELAY": "0",
+            "DESC_INSTMT": "ABBSL 2023-4A",
+            "END_ADJ_FLAG": "Y",
+            "EXPECTED_MATURITY": "4/20/2038",
+            "FIRST_PAY_DT": "7/20/2025",
+            "FIRST_PRIN_DT": "7/20/2025",
+            "FIRST_SETTLE_DT": "4/14/2025",
+            "FLAG_144A": "Y",
+            "FLAG_EOM": "N",
+            "FLAG_ERISA": "N",
+            "FLAG_PERFORMING": "Y",
+            "FLAG_REG_RIGHTS": "N",
+            "ISSUER_ID": "L45247",
+            "ISSUE_DT": "4/14/2025",
+            "LEAD_MGR": "GOLDMAN SACHS & CO (GS)",
+            "LIQUIDITY": "L",
+            "MARKET": "US",
+            "MATURITY": "4/20/2038",
+            "MODIFIED_BY": "r5mbreih",
+            "NTL_FLAG": "N",
+            "PMT_ADJ_METH": "F",
+            "PMT_CAL": "NY_Bank",
+            "PMT_FREQ_TYPE": "0",
+            "PMT_LOCATION": "D",
+            "PRICE_AS_PCT": "Y",
+            "PRICING": "32nds",
+            "PRIN_FREQ": "Q",
+            "PUT_CALL": null,
+            "REREMIC": "O",
+            "REVIEWED_BY": "r5mbreih",
+            "RISK_COUNTRY": "US",
+            "ROUND_FLAG": "R",
+            "ROUND_PRECISION": "9",
+            "SEC_TYPE": "ABS_ABS",
+            "SETTLE_LOCATION": "D",
+            "SM_SEC_GROUP": "ABS",
+            "SM_SEC_TYPE": "ABS",
+            "STRUCTURE": "MEZZANIN",
+            "TICKER": "ABBSL",
+            "TRANCHE": "CR",
+            "WI_FLAG": "N"
+        },
+        "SM_CUSIP2": [
+            {
+                "CODE": "A",
+                "IDENTIFIER": "00037VAQ1"
+            },
+            {
+                "CODE": "I",
+                "IDENTIFIER": "US00037VAQ14"
+            }
+        ],
+        "SM_CUSIP_ALIAS": [
+            {
+                "CODE": "201718",
+                "IDENTIFIER": "0x001067da03b5011a",
+                "PURPOSE": "REUCMO"
+            }
+        ],
+        "SM_FLOATER": [
+            {
+                "END_DT": "4/20/2038",
+                "FEATURE_CODE": "m*Ind+r",
+                "FIRST_RESET_DATE": "7/20/2025",
+                "FLAG_INDEX_ROUND": "R",
+                "GROSS_MARGIN": "2.2",
+                "INDEX0": "SR3M",
+                "INDEX_PRECISION": "5",
+                "INDX2": "USD - Term SOFR 3M (Forward)",
+                "LIFE_FLOOR": "2.2",
+                "LOOKBACK": "2",
+                "LOOKBACK_ADJUST_METH": "Previous",
+                "LOOKBACK_CAL": "NY_Bank",
+                "LOOKBACK_CONV": "B",
+                "LOOKBACK_TYPE": "INT",
+                "MARGIN": "2.2",
+                "MULT": "1",
+                "RESET_CAL": "NY_Bank",
+                "RESET_FREQ": "Q",
+                "RESET_FREQ_DTL": "q",
+                "RESET_TERM": "4",
+                "SPREAD": "2.2",
+                "START_DT": "4/14/2025",
+                "SUSPENSION_DAY_CONV": "Business"
+            }
+        ],
+        "SM_RATING": [
+            {
+                "AGY": "1",
+                "DATE": "3/28/2025",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "2",
+                "DATE": "4/14/2025",
+                "VALUE": "A"
+            },
+            {
+                "AGY": "3",
+                "DATE": "3/28/2025",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "5",
+                "DATE": "4/30/2025",
+                "VALUE": "1.F"
+            },
+            {
+                "AGY": "1201",
+                "DATE": "1/1/1970",
+                "VALUE": "A2"
+            }
+        ],
+        "SM_SECTOR": [
+            {
+                "CODE": "525990",
+                "LEVEL": "1",
+                "TYPE": "NAICS_SECTOR"
+            }
+        ],
+        "SM_SM_VECTOR_DATA": [
+            {
+                "ATTR_NAME": "ABS",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "4/14/2025",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "CLO",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "4/14/2025",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "DINT",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "4/14/2025",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "Flt",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "4/14/2025",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "Sequential",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "4/14/2025",
+                "STOP_DATE": "12/31/2222"
+            }
+        ],
+        "SM_UDF": [
+            {
+                "LABEL": "ASSET_CLASS5",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5jsykor"
+            },
+            {
+                "LABEL": "CRED_REL_IN_SUB",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5jsykor",
+                "VALUE": "Yes"
+            },
+            {
+                "LABEL": "NAIC_ABS_CAT",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5jsykor",
+                "VALUE": "FIN ABS"
+            },
+            {
+                "LABEL": "SUBS_CRED_ENH",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5jsykor",
+                "VALUE": "Yes"
+            }
+        ]
+    },
+    {
+        "_metadata_": {
+            "ASOF_DATE": "2025-05-16",
+            "CREATE_DATE": "2025-05-16",
+            "BATCH_FREQUENCY": "weekly"
+        },
+        "SM": {
+            "ASSET_TYPE": "ABS_ABS",
+            "ACCRUAL_DT": "11/12/2021",
+            "AMT_ISU": "620000000",
+            "BONDTYPE": "Aircraft",
+            "CALC_TYPE": "0",
+            "CD_INSTMT_TYPE": "UNKNOWN",
+            "CHANGE_DT": "5/15/2025 14:56:27.453",
+            "COLLATERAL": "AIRCRAFT LEASES",
+            "COMPOUND_FLAG": "0",
+            "COUNTRY": "US",
+            "COUPON_FIX": "2.95",
+            "COUP_FREQ": "M",
+            "CPN_TYPE": "F",
+            "CURRENCY": "USD",
+            "CUSIP": "00038PAA8",
+            "CUSIP_TYPE": "CUSIP",
+            "DATE_CONV": "D30360",
+            "DEAL": "AASET 2021-1A",
+            "DEAL_AMOUNT": "817582000",
+            "DELAY": "0",
+            "DESC_INSTMT": "AASET 2021-1A",
+            "END_ADJ_FLAG": "N",
+            "EXPECTED_MATURITY": "10/16/2028",
+            "FIRST_PAY_DT": "11/16/2021",
+            "FIRST_PRIN_DT": "11/16/2021",
+            "FIRST_SETTLE_DT": "11/12/2021",
+            "FLAG_144A": "Y",
+            "FLAG_EOM": "N",
+            "FLAG_ERISA": "N",
+            "FLAG_PERFORMING": "Y",
+            "FLAG_REG_RIGHTS": "N",
+            "ISSUER_ID": "K91005",
+            "ISSUE_DT": "11/12/2021",
+            "ISSUE_PRICE": "98.97274",
+            "LIQUIDITY": "L",
+            "MARKET": "US",
+            "MATURITY": "11/16/2041",
+            "MIN_LOT_SIZE": "1000",
+            "MIN_TRD_SIZE": "250000",
+            "MODIFIED_BY": "r5jjames",
+            "NTL_FLAG": "N",
+            "PMT_ADJ_METH": "F",
+            "PMT_CAL": "NY_Bank",
+            "PMT_FREQ_TYPE": "0",
+            "PRICE_AS_PCT": "Y",
+            "PRICING": "32nds",
+            "PRIN_FREQ": "M",
+            "PUT_CALL": null,
+            "REREMIC": "O",
+            "REVIEWED_BY": "r5jjames",
+            "RISK_COUNTRY": "US",
+            "ROUND_FLAG": "R",
+            "ROUND_PRECISION": "9",
+            "SEC_TYPE": "ABS_ABS",
+            "SM_SEC_GROUP": "ABS",
+            "SM_SEC_TYPE": "ABS",
+            "STRUCTURE": "SENIOR",
+            "TICKER": "AASET",
+            "TRANCHE": "A",
+            "WI_FLAG": "N"
+        },
+        "SM_COUNTRY_CLASSIFICATION": [
+            {
+                "CNTRY": "US",
+                "CNTRY_SRC": "ML",
+                "CNTRY_TYPE": "IDX"
+            }
+        ],
+        "SM_CUSIP2": [
+            {
+                "CODE": "I",
+                "IDENTIFIER": "US00038PAA84"
+            }
+        ],
+        "SM_RATING": [
+            {
+                "AGY": "1",
+                "DATE": "10/25/2021",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "2",
+                "DATE": "7/18/2023",
+                "VALUE": "A+"
+            },
+            {
+                "AGY": "3",
+                "DATE": "10/25/2021",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "5",
+                "DATE": "4/29/2025",
+                "VALUE": "1.F"
+            },
+            {
+                "AGY": "14",
+                "DATE": "2/21/2025",
+                "VALUE": "A"
+            },
+            {
+                "AGY": "35",
+                "DATE": "2/21/2025",
+                "VALUE": "A(sf)"
+            },
+            {
+                "AGY": "52",
+                "DATE": "6/13/2022",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "56",
+                "DATE": "2/21/2025",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "1201",
+                "DATE": "7/18/2023",
+                "VALUE": "A1"
+            }
+        ],
+        "SM_SECTOR": [
+            {
+                "CODE": "ABAL",
+                "LEVEL": "1",
+                "TYPE": "ISS_ML"
+            },
+            {
+                "CODE": "525990",
+                "LEVEL": "1",
+                "TYPE": "NAICS_SECTOR"
+            }
+        ],
+        "SM_SM_VECTOR_DATA": [
+            {
+                "ATTR_NAME": "Aircraft",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "11/12/2021",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "FIX",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "11/12/2021",
+                "STOP_DATE": "12/31/2222"
+            }
+        ],
+        "SM_UDF": [
+            {
+                "LABEL": "ASSET_CLASS5",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "RGA"
+            }
+        ]
+    },
+    {
+        "_metadata_": {
+            "ASOF_DATE": "2025-05-16",
+            "CREATE_DATE": "2025-05-16",
+            "BATCH_FREQUENCY": "weekly"
+        },
+        "SM": {
+            "ASSET_TYPE": "ABS_ABS",
+            "ACCRUAL_DT": "10/22/2024",
+            "AMT_ISU": "436062000",
+            "ANNOUNCE_DT": "10/22/2024",
+            "BONDTYPE": "Aircraft",
+            "CALC_TYPE": "0",
+            "CD_INSTMT_TYPE": "UNKNOWN",
+            "CHANGE_DT": "5/15/2025 11:17:36.036",
+            "COLLATERAL": "AIRCRAFT LEASES",
+            "COMPOUND_FLAG": "0",
+            "COUNTRY": "US",
+            "COUPON_FIX": "5.93",
+            "COUP_FREQ": "M",
+            "CPN_TYPE": "F",
+            "CURRENCY": "USD",
+            "CUSIP": "00038QAA6",
+            "CUSIP_TYPE": "CUSIP",
+            "DATE_CONV": "D30360",
+            "DEAL": "AASET 2024-2A",
+            "DEAL_AMOUNT": "480300000",
+            "DELAY": "0",
+            "DESC_INSTMT": "AASET 2024-2A",
+            "END_ADJ_FLAG": "N",
+            "EXPECTED_MATURITY": "9/16/2031",
+            "FIRST_PAY_DT": "11/16/2024",
+            "FIRST_PRIN_DT": "11/16/2024",
+            "FIRST_SETTLE_DT": "10/22/2024",
+            "FLAG_144A": "Y",
+            "FLAG_EOM": "N",
+            "FLAG_ERISA": "N",
+            "FLAG_PERFORMING": "Y",
+            "FLAG_REG_RIGHTS": "N",
+            "ISSUER_ID": "M08813",
+            "ISSUE_DT": "10/22/2024",
+            "ISSUE_PRICE": "99.99917000000001",
+            "LEAD_MGR": "GOLDMAN SACHS & CO (GS)",
+            "LIQUIDITY": "L",
+            "MARKET": "US",
+            "MATURITY": "9/16/2049",
+            "MIN_LOT_SIZE": "1000",
+            "MIN_TRD_SIZE": "250000",
+            "MODIFIED_BY": "r5jjames",
+            "NTL_FLAG": "N",
+            "PMT_ADJ_METH": "F",
+            "PMT_CAL": "NY_Bank",
+            "PMT_FREQ_TYPE": "0",
+            "PMT_LOCATION": "D",
+            "PRICE_AS_PCT": "Y",
+            "PRICING": "32nds",
+            "PRIN_FREQ": "M",
+            "PUT_CALL": null,
+            "REREMIC": "N",
+            "REVIEWED_BY": "r5jjames",
+            "RISK_COUNTRY": "US",
+            "ROUND_FLAG": "R",
+            "ROUND_PRECISION": "9",
+            "SEC_TYPE": "ABS_ABS",
+            "SETTLE_LOCATION": "D",
+            "SM_SEC_GROUP": "ABS",
+            "SM_SEC_TYPE": "ABS",
+            "STRUCTURE": "SENIOR",
+            "TICKER": "AASET",
+            "TRANCHE": "A",
+            "WI_FLAG": "N"
+        },
+        "SM_COUNTRY_CLASSIFICATION": [
+            {
+                "CNTRY": "US",
+                "CNTRY_SRC": "ML",
+                "CNTRY_TYPE": "IDX"
+            }
+        ],
+        "SM_CUSIP2": [
+            {
+                "CODE": "A",
+                "IDENTIFIER": "00038QAA6"
+            },
+            {
+                "CODE": "I",
+                "IDENTIFIER": "US00038QAA67"
+            }
+        ],
+        "SM_CUSIP_ALIAS": [
+            {
+                "CODE": "201718",
+                "IDENTIFIER": "0x0010676a51e800a4",
+                "PURPOSE": "REUCMO"
+            }
+        ],
+        "SM_RATING": [
+            {
+                "AGY": "1",
+                "DATE": "10/16/2024",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "2",
+                "DATE": "10/16/2024",
+                "VALUE": "NR"
+            },
+            {
+                "AGY": "3",
+                "DATE": "10/22/2024",
+                "VALUE": "A"
+            },
+            {
+                "AGY": "5",
+                "DATE": "4/30/2025",
+                "VALUE": "1.F"
+            },
+            {
+                "AGY": "8",
+                "DATE": "10/22/2024",
+                "VALUE": "A"
+            },
+            {
+                "AGY": "53",
+                "DATE": "10/22/2024",
+                "VALUE": "STA"
+            },
+            {
+                "AGY": "1201",
+                "DATE": "1/1/1970",
+                "VALUE": "A2"
+            }
+        ],
+        "SM_SECTOR": [
+            {
+                "CODE": "ABAL",
+                "LEVEL": "1",
+                "TYPE": "ISS_ML"
+            }
+        ],
+        "SM_SM_VECTOR_DATA": [
+            {
+                "ATTR_NAME": "ABS",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "10/22/2024",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "Aircraft",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "10/22/2024",
+                "STOP_DATE": "12/31/2222"
+            },
+            {
+                "ATTR_NAME": "FIX",
+                "ATTR_PCT": "100",
+                "ATTR_TYPE": "BNDTYP",
+                "START_DATE": "10/22/2024",
+                "STOP_DATE": "12/31/2222"
+            }
+        ],
+        "SM_UDF": [
+            {
+                "LABEL": "ASSET_CLASS5",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5mhsu"
+            },
+            {
+                "LABEL": "CRED_REL_IN_SUB",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5mhsu",
+                "VALUE": "Yes"
+            },
+            {
+                "LABEL": "MEAN_CASH_FLOWS",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5mhsu",
+                "VALUE": "Practical Exped"
+            },
+            {
+                "LABEL": "NAIC_ABS_CAT",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5mhsu",
+                "VALUE": "NONFIN ABS LB"
+            },
+            {
+                "LABEL": "SUBS_CRED_ENH",
+                "PURPOSE": "RGA",
+                "UDF_SOURCE": "r5mhsu",
+                "VALUE": "Yes"
+            }
+        ]
+    }
+]
